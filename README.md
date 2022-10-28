@@ -1,12 +1,10 @@
 # RIDMI
 
 ✍️ Nombre del equipo: 
-                        Grupo 4 
+  wonderwomen                      Grupo 4 
 ✍️ Integrantes del equipo: 
-    Manu
-    Ema
-    Nahuel
-    Rochi
-    Arnau
-    Rosie
-    Guille
+  Alba
+  Natalia
+  Leidy
+  Sandra
+  Bea
